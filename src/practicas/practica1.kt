@@ -1,6 +1,4 @@
-package PRACTICAS
-
-import kotlin.system.measureTimeMillis
+package practicas
 
 fun main() {
     println("Buenas , como te llamas?")

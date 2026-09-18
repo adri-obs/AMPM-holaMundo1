@@ -1,4 +1,4 @@
-package ELEMENTOS_BASICOS
+package elementos_basicos
 
 fun main() {
     fun suma (){

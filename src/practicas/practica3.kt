@@ -1,4 +1,4 @@
-package PRACTICAS
+package practicas
 
 fun main() {
     val notas = DoubleArray(5)

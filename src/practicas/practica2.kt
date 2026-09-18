@@ -1,4 +1,4 @@
-package PRACTICAS
+package practicas
 
 fun main() {
     println("Introduce una cadena de texto:")
